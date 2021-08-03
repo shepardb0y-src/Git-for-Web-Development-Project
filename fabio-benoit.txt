@@ -9,7 +9,7 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
     1. What is Semantic HTML? html names with meaning
     2. What is HTML used for? to structure your websites code.
     3. What is an attribute and where do we put it? an attribute is a css selectoer put within an html tag to syle it
-    4. What is the h1 tag used for? How many times should I use it on a page?
+    4. What is the h1 tag used for? How many times should I use it on a page? used for mosrt important heading only should have one 
     5. Name two tags that have required attributes
     6. What do we put in the head of our HTML document? 
     7. What is an id? 
