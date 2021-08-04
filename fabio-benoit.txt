@@ -24,25 +24,26 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
     16. What is the difference between a section and a div section is for content notifcation div is for styling
     17. What is CSS used for? to style html
     18. How to we select an element? Example - every h2 on the page .h2
-    19. What is the difference between a class and an id? - Give me an example of when I might use each one class is used to style multiple selectors id is for one id use an id for a title ansd class for paragraph
-    20. How do we select classes in CSS?
-    21. How do we select a p element with a single class of “human””?
+    19. What is the difference between a class and an id? - Give me an example of when I might use each one. class is used to style multiple selectors id is for one id use an id for a title ansd class for paragraph
+    20. How do we select classes in CSS? periods
+    21. How do we select a p element with a single class of “human””?.human
     22. What is a parent child selector? When would this be useful? 
     23. How do you select all links within a div with the class of sidebar?
-    24. What is a pseudo selector?
+    24. What is a pseudo selector? secondary selector
     25. What do we use the change the spacing between lines?
     26. What do we use to change the spacing between letters?
     27. What do we use to to change everything to CAPITALS? lowercase? Capitalize?
-    28. How do I add a 1px border around my div that is dotted and black?
-    29. How do I select everything on the page? 
-    30. How do I write a comment in CSS?
-    31. How do I find out what file I am in, when I am using the command line? 
-    32. Using the command line - how do I see a list of files/folders in my current folder?
-    33. How do I remove a file via the command line? Why do I have to be careful with this? 
-    34. Why should I use version control? 
-    35. How often should I commit to github?
-    36. What is the command we would use to push our repo up to github? 
-    37. Walk me through Lambda's git flow. 
+    28. How do I add a 1px border around my div that is dotted and black? 1px dotted  black
+    29. How do I select everything on the page? * selector
+    30. How do I write a comment in CSS?!--
+    31. How do I find out what file I am in, when I am using the command line? pwd
+    32. Using the command line - how do I see a list of files/folders in my current folder?ls
+    33. How do I remove a file via the command line? Why do I have to be careful with this? rm- delete permanetly
+    34. Why should I use version control? to maintain clean code
+    35. How often should I commit to github? 20 mins
+    36. What is the command we would use to push our repo up to github? pit push 
+    37. Walk me through Lambda's git flow. fork repo, git clone, make your own branch, git add, git commit, git push -u origin
+    
 
 Stretch Questions
 
