@@ -10,21 +10,21 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
     2. What is HTML used for? to structure your websites code.
     3. What is an attribute and where do we put it? an attribute is a css selectoer put within an html tag to syle it
     4. What is the h1 tag used for? How many times should I use it on a page? used for mosrt important heading only should have one 
-    5. Name two tags that have required attributes
-    6. What do we put in the head of our HTML document? 
-    7. What is an id? 
-    8. What elements can I add an id to? 
-    9. How many times can I use the same id on a page? 
-    10. What is a class? 
-    11. What elements can I add a class to? 
-    12. How many times can I use the same class on a page? 
-    13. How do I get my link to open in a new tab?
-    14. What is the alt attribute in the image tag used for? 
-    15. How do I reference an id?
-    16. What is the difference between a section and a div
-    17. What is CSS used for? 
-    18. How to we select an element? Example - every h2 on the page
-    19. What is the difference between a class and an id? - Give me an example of when I might use each one
+    5. Name two tags that have required attributes. im g and anchor
+    6. What do we put in the head of our HTML document? meta tags
+    7. What is an id? a selector for one special element
+    8. What elements can I add an id to? html
+    9. How many times can I use the same id on a page? 1
+    10. What is a class? a selector for multiple html elements
+    11. What elements can I add a class to? html tags
+    12. How many times can I use the same class on a page? more tha once
+    13. How do I get my link to open in a new tab? target="_blank"
+    14. What is the alt attribute in the image tag used for? to name the image tag if it does not load
+    15. How do I reference an id?#
+    16. What is the difference between a section and a div section is for content notifcation div is for styling
+    17. What is CSS used for? to style html
+    18. How to we select an element? Example - every h2 on the page .h2
+    19. What is the difference between a class and an id? - Give me an example of when I might use each one class is used to style multiple selectors id is for one id use an id for a title ansd class for paragraph
     20. How do we select classes in CSS?
     21. How do we select a p element with a single class of “human””?
     22. What is a parent child selector? When would this be useful? 
